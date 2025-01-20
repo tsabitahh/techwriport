@@ -1,6 +1,6 @@
 # Technical writing case study
 
-## Compose an email directing employees of the company you work for to not make copies nor to take office supplies for personal use. Your message should take into account the needs of your audience and be persuasive and provide explanation. 
+### Compose an email directing employees of the company you work for to not make copies nor to take office supplies for personal use. Your message should take into account the needs of your audience and be persuasive and provide explanation. 
 
 Dear Employees,
 
@@ -13,7 +13,7 @@ Regards,
 
 Technical Writer
 
-## Suppose that your organization has had some email addresses hacked. One solution is to have everyone reset his or her passwords to stronger passwords, using a computer on the company network. Write instructions that detail how to change a user’s password, what requirements the password will have (at least one number, et cetera), and some statement of the purpose of the instructions. Instructions such as these are typically aimed at users who are not intuitively comfortable with computers.
+### Suppose that your organization has had some email addresses hacked. One solution is to have everyone reset his or her passwords to stronger passwords, using a computer on the company network. Write instructions that detail how to change a user’s password, what requirements the password will have (at least one number, et cetera), and some statement of the purpose of the instructions. Instructions such as these are typically aimed at users who are not intuitively comfortable with computers.
 
 As a few employees email addresses have been hacked, it caused data breach that may weaken the company's security. Therefore, it is mandatory for all of the employees to change their passwords. Your password needs to include at least a lowercase, an uppercase, a number, and a symbol. It has to be between 8 - 12 lengths. This instruction will guide you on how to change your password.
 1. On the login page, click Forget Password. If you haven’t logout yet, please logout first.
